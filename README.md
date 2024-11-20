@@ -15,3 +15,8 @@ Harrison Ruback
 
 - [Understanding map coordinates](https://colab.research.google.com/drive/1m8gURbpUqQ0meL0WQVy41nl1--JJsPzV?usp=sharing)
 - [Georeference a 1960s Miami University campus map](https://colab.research.google.com/drive/1xGtf2tgaRp8CfXJ-6TlhMZSqBTIqHPe-?usp=sharing)
+
+- <!-- Add script to the <head> of your page to load the embeddable map component -->
+<script type="module" src="https://js.arcgis.com/embeddable-components/4.31/arcgis-embeddable-components.esm.js"></script>
+<!-- Add custom element to <body> of your page -->
+ <arcgis-embedded-map style="height:600px;width:700px;" item-id="8be4543f5aa5479696773bf2ca9726e0" theme="light" portal-url="https://www.arcgis.com" bookmarks-enabled heading-enabled legend-enabled information-enabled ></arcgis-embedded-map>
