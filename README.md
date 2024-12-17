@@ -7,11 +7,13 @@ Harrison Ruback
 - Students can build a repository like this as their project portfolio
 - Here are some projects that I have worked on
 - Heatmaps
-- https://colab.research.google.com/drive/1os2izIliAdESIQCZEQ3UMoueQ0ahw0TN?usp=sharing
+- [Ohio Heamap] https://colab.research.google.com/drive/1os2izIliAdESIQCZEQ3UMoueQ0ahw0TN?usp=sharing
 - Project on Mapping Historical Data
-- https://colab.research.google.com/drive/1xJLIHVtixw2cadsQZIUNXuZyrTYqiYSQ?usp=sharing
+- [Cholera Outbreak Maps] https://colab.research.google.com/drive/1xJLIHVtixw2cadsQZIUNXuZyrTYqiYSQ?usp=sharing
+- Story Map of the Cholera Outbreaks
+- [Cholera Story Map] https://storymaps.arcgis.com/stories/55c175bcd10c469b913043077690c43b
 - Elevation Maps
-- https://colab.research.google.com/drive/1gSZPBQ-k508mo0tWqfs7W5erhWoXMoi-?usp=sharing
+- [Oxford Ohio Elevation Map] https://colab.research.google.com/drive/1gSZPBQ-k508mo0tWqfs7W5erhWoXMoi-?usp=sharing
   
 
 ## Basic Mapping
