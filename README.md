@@ -5,6 +5,14 @@ Harrison Ruback
 ## Overview
 - This repository contains Google Colab Notebooks prepared for GEO 242 @Miami University
 - Students can build a repository like this as their project portfolio
+- Here are some projects that I have worked on
+- Heatmaps
+- https://colab.research.google.com/drive/1os2izIliAdESIQCZEQ3UMoueQ0ahw0TN?usp=sharing
+- Project on Mapping Historical Data
+- https://colab.research.google.com/drive/1xJLIHVtixw2cadsQZIUNXuZyrTYqiYSQ?usp=sharing
+- Elevation Maps
+- https://colab.research.google.com/drive/1gSZPBQ-k508mo0tWqfs7W5erhWoXMoi-?usp=sharing
+  
 
 ## Basic Mapping
 
